@@ -1,4 +1,4 @@
-# Classification Basics: Walk-through with the Iris Data Set
+# Walk-through with the Iris Data Set
 
 ## Getting Set Up
 ![image](https://user-images.githubusercontent.com/55336314/183276429-221bdf9e-f911-4ec0-8b85-5cc093a90f55.png)
