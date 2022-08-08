@@ -29,13 +29,32 @@ Using data.head() will automatically output the first 5 rows of data, but if we 
 ![image](https://user-images.githubusercontent.com/55336314/183276528-9c14935c-0b29-4539-a2e1-59f653f4f7c0.png)
 
 ## Modeling
+![image](https://user-images.githubusercontent.com/55336314/183342921-7a3ae416-7152-4ff5-9be5-baf8f36b424d.png)
+
 ## Train Test Split
+'\nby stratifying on y we assure that the different classes are represented proportionally to the amount in the total data (this makes sure that all of class 1 is not in the test group only)\n'
+
 ## Standardize
 ## Baseline Prediction
+![image](https://user-images.githubusercontent.com/55336314/183343011-8e9eb141-b6cc-4953-9a72-0e612a9b7ef4.png)
+
 ## Logistic Regression Model
+![image](https://user-images.githubusercontent.com/55336314/183343047-bbb66b40-07da-496c-b0ca-1c01df4f2563.png)
+
 ## Understanding the Predictions
 ## Coefficients
+![image](https://user-images.githubusercontent.com/55336314/183343084-1093b765-3be4-404a-99b1-13e79d666ac0.png)
+
 ## Predicted Values
+![image](https://user-images.githubusercontent.com/55336314/183343134-e08f8156-a3d7-4f58-bf4a-e348fdbd504b.png)
+## Confusion Matrix
+![image](https://user-images.githubusercontent.com/55336314/183343844-9f101c47-1ad6-43e4-8d96-3beed54d69e3.png)
+
 ## Classification Report
+![image](https://user-images.githubusercontent.com/55336314/183343884-7defdfef-c419-4c7d-bd10-65543c21a4f2.png)
+
 ## Predicted Probabilities
+![image](https://user-images.githubusercontent.com/55336314/183343922-16de4491-6896-4495-b786-3d7f067ff23c.png)
+
 ## Conclusion
+This is a classic data set because it is relatively straightforward, but the steps highlighted here can be applied to a classification project of any kind. Follow for more simple (and advanced) data set walk-throughs in the future!
