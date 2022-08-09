@@ -1,3 +1,4 @@
+# [Google Slide](https://docs.google.com/presentation/d/1kn2AQMSCLY_JR5rHsfMn8btFhTz8KlF87spYs6fCM5g/edit?usp=sharing)
 # Walk-through with the Iris Data Set
 
 ## Getting Set Up
@@ -58,3 +59,6 @@ Using data.head() will automatically output the first 5 rows of data, but if we 
 
 ## Conclusion
 This is a classic data set because it is relatively straightforward, but the steps highlighted here can be applied to a classification project of any kind. Follow for more simple (and advanced) data set walk-throughs in the future!
+
+
+# The more detail report will be shown in [Google Slide](https://docs.google.com/presentation/d/1kn2AQMSCLY_JR5rHsfMn8btFhTz8KlF87spYs6fCM5g/edit?usp=sharing)
