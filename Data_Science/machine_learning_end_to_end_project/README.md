@@ -24,5 +24,19 @@ Launch Monitor and Maintain Your System
 ### Evaluate on the test set
 ![image](https://user-images.githubusercontent.com/55336314/186596586-92981a65-e4eb-435e-bb4b-bd524ce07a3d.png)
 
+### much of the work is in the ###
+Data preparation step
+
+Deploying
+
+Building monitoring tools
+
+Setting up human evaluation pipelines 
+
+Automating regular model training
+
+### It is important to understand how your data
+was computed.
+
 
 Details on [google slides](https://docs.google.com/presentation/d/1ig26fcddLXHQNdbC1rNxheb_8D2kprYPfEMfnctomrM/edit?usp=sharing)
