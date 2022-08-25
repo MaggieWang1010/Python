@@ -35,8 +35,7 @@ Setting up human evaluation pipelines
 
 Automating regular model training
 
-### It is important to understand how your data
-was computed.
+### It is important to understand how your datawas computed.
 
 
 Details on [google slides](https://docs.google.com/presentation/d/1ig26fcddLXHQNdbC1rNxheb_8D2kprYPfEMfnctomrM/edit?usp=sharing)
