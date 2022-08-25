@@ -21,4 +21,8 @@ Launch Monitor and Maintain Your System
 ### Dataset is based on data from the 1990 California census.###
 ![image](https://user-images.githubusercontent.com/55336314/186586086-ba51ef2a-1c11-423b-a62e-44f8c5821e25.png)
 
+### Evaluate on the test set
+![image](https://user-images.githubusercontent.com/55336314/186596586-92981a65-e4eb-435e-bb4b-bd524ce07a3d.png)
+
+
 [google slides](https://docs.google.com/presentation/d/1ig26fcddLXHQNdbC1rNxheb_8D2kprYPfEMfnctomrM/edit?usp=sharing)
