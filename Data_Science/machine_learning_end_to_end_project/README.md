@@ -25,4 +25,4 @@ Launch Monitor and Maintain Your System
 ![image](https://user-images.githubusercontent.com/55336314/186596586-92981a65-e4eb-435e-bb4b-bd524ce07a3d.png)
 
 
-[google slides](https://docs.google.com/presentation/d/1ig26fcddLXHQNdbC1rNxheb_8D2kprYPfEMfnctomrM/edit?usp=sharing)
+Details on [google slides](https://docs.google.com/presentation/d/1ig26fcddLXHQNdbC1rNxheb_8D2kprYPfEMfnctomrM/edit?usp=sharing)
